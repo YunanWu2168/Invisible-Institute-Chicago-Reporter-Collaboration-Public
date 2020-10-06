@@ -38,7 +38,7 @@ ORDER BY count(race)
 )
 ```
 
-**2. What is the majority race in the community of which the officer with most complaints? **
+**2. What is the majority race in the community of which the officer with most complaints?**
 
 Please use folder src/Q2.sql or paste the codes below
 
@@ -143,7 +143,7 @@ GROUP BY race, race
 ORDER BY count(race)
 ```
 
-**4. What percentage of officers have the same race with the majority race of their responsible community? **
+**4. What percentage of officers have the same race with the majority race of their responsible community?**
 
 Please use folder src/Q4.sql or paste the codes below
 
@@ -319,7 +319,7 @@ SELECT (
            ) as result
 ```
 
-**6. What percentage of filers of complaints have the same race with the majority race of their community? **
+**6. What percentage of filers of complaints have the same race with the majority race of their community?**
 
 Please use folder src/Q6.sql or paste the codes below
 
